@@ -1,0 +1,1 @@
+{"name":"sample-express-app","version":"1.0.0","description":"A sample Express application","main":"index.js","scripts":{"start":"node index.js"},"dependencies":{"axios":"^1.4.0","axios-retry":"^3.6.1","cheerio":"^1.0.0-rc.12","cors":"^2.8.5","dotenv":"^16.3.1","express":"^4.18.2","googleapis":"^126.0.1","openai":"^4.2.0","retry-axios":"^3.0.0"}}
